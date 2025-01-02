@@ -1,4 +1,3 @@
-# resume-me
  # Karan Kumar Sah
 
 **Phone:** +91-9142930297  
