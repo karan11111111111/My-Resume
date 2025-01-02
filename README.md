@@ -11,6 +11,11 @@
 
 ---
 
+## Summary
+A passionate and result-driven B.Tech student pursuing Computer Science & Engineering at Kalinga Institute of Industrial Technology. Experienced in full-stack web development with a strong foundation in Java, Python, ReactJS, and Spring Boot. Skilled in building interactive and scalable web applications, collaborating with teams, and solving complex problems. Eager to contribute to impactful projects and grow in the tech industry.
+
+---
+
 ## Education
 **Kalinga Institute of Industrial Technology**  
 *B.Tech in Computer Science & Engineering*  
