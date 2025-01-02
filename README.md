@@ -6,10 +6,7 @@
 **GitHub:** [karan11111111111](https://github.com/karan11111111111)  
 **Website:** [My Website](https://example.com)
 
-
-<div align="right">
-  [**Download Resume**](./My-Resume/resume01-2.pdf)
-</div>
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-brightgreen)](./My-Resume/resume01-2.pdf)
 
 ---
 
@@ -63,4 +60,3 @@ _Remote | July 2023 - September 2023_
 ---
 
 Feel free to connect with me through my GitHub, LinkedIn, or Email for more details.
-
