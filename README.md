@@ -19,7 +19,7 @@ A passionate and result-driven B.Tech student pursuing Computer Science & Engine
 ## Education
 **Kalinga Institute of Industrial Technology**  
 *B.Tech in Computer Science & Engineering*  
-2022 - Present | CGPA: 8.17/10
+2022 - Present | CGPA: 8.38/10
 
 ---
 
