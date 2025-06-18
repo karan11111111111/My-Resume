@@ -6,7 +6,8 @@
 **GitHub:** [karan11111111111](https://github.com/karan11111111111)  
 <!-- **Website:** [My Website](https://example.com) -->
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-brightgreen)](https://raw.githubusercontent.com/karan11111111111/My-Resume/main/resume/resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-brightgreen)](https://github.com/karan11111111111/My-Resume/blob/main/MyResume.pdf)
+
 
 
 ---
